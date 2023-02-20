@@ -1,1 +1,0 @@
-F. Mukai et al, Biostatistics, kagakudojin, 2011.
