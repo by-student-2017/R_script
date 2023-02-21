@@ -26,10 +26,10 @@
 3. library(ggmcmc)
 
 ## Memo
-- RやRtools, RStudioは、何も変更せずディフォルトのままにした。全て"OK"や"次へ"にしている
+- R, Rtools, and RStudio left default without changing anything. Everything is set to "OK" and "Next"
 - R and Rtools: about 3.47 GB (+ RStudio about 2.5 GB)
-- ドキュメント (C:\Users\XXXXX\Documents)でファイルを準備すると簡単になる（XXXXXはユーザー名）
-- ここでは日本語フォントを導入できるようにするためにRStudioをインストールしている。英語なら必要ない
+- Preparing files in Documents (C:UsersXXXXXDocuments) makes it easier (where XXXXX is the username)
+- Here Japanese RStudio is installed to be able to introduce fonts. Not required in English
 
 ## Appendix (settings)
 1. "C:\Users\XXXXX\Documents\bashmakePATH.Renviron"
