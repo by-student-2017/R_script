@@ -28,7 +28,7 @@
 ## dlm
 1. install.packages("dlm", dependencies=TRUE)
 
-## dlm
+## KFAS
 1. install.packages("KFAS", dependencies=TRUE)
 
 ## Memo
