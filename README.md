@@ -25,6 +25,12 @@
 2. pkgbuild::has_build_tools(debug = TRUE)
 3. library(ggmcmc)
 
+## dlm
+1. install.packages("dlm", dependencies=TRUE)
+
+## dlm
+1. install.packages("KFAS", dependencies=TRUE)
+
 ## Memo
 - R, Rtools, and RStudio left default without changing anything. Everything is set to "OK" and "Next"
 - R and Rtools: about 3.47 GB (+ RStudio about 2.5 GB)
