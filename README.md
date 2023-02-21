@@ -44,3 +44,5 @@
 # References
 - [1] F. Mukai et al, Biostatistics, kagakudojin, 2011.
 - [2] T. Kaise, Seminar, Hyogo university, 2022.
+- [3] 小森政嗣、日本音響学会誌、75 (2019) 351-357.: https://doi.org/10.20697/jasj.75.6_351
+- [4] 伊東宏樹、日本生態学会誌、66 (2016) 361-374.: https://doi.org/10.18960/seitai.66.2_361
