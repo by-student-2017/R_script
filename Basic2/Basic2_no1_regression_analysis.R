@@ -9,7 +9,7 @@ DAT<-read.csv("data_Basic2_no1.csv")
 print(DAT)
 
 # correlation coefficient
-cor(RED$lot,RED$price)
+print( cor(DAT$lot,DAT$price) )
 
 # calculate
 print("Regression model with some explanatory variables")
