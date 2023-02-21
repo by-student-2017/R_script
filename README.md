@@ -35,7 +35,7 @@
 - R, Rtools, and RStudio left default without changing anything. Everything is set to "OK" and "Next"
 - R and Rtools: about 3.47 GB (+ RStudio about 2.5 GB)
 - Preparing files in Documents (C:UsersXXXXXDocuments) makes it easier (where XXXXX is the username)
-- Here Japanese RStudio is installed to be able to introduce fonts. Not required in English
+- Here, RStudio is installed to be able to introduce Japanese fonts. Not required in English
 
 ## Appendix (settings)
 1. "C:\Users\XXXXX\Documents\bashmakePATH.Renviron"
